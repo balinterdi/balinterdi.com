@@ -38,4 +38,17 @@ body {
   position: relative;
   left: -35px;
 }
+
+a {
+  color: #052f6d;
+  text-decoration: underline;
+}
+
+a:hover {
+  background-color: #ffa100;
+}
+
+a:visited {
+  text-decoration: italic;
+}
 /* layout */
