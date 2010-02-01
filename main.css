@@ -1,0 +1,23 @@
+body {
+  font-size: 62.5%;
+  font-family: "droid-sans-1","droid-sans-2", 'Trebuchet MS', Verdana, sans-serif;
+  margin: 50px auto;
+}
+
+#content {
+  margin: 0 auto;
+  width: 600px;
+  font-size: 3em;
+/*  color: #4577d4;*/
+  color: #333333;
+  text-align: justify;
+}
+
+a {
+  color: #a62000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff6440;
+}
