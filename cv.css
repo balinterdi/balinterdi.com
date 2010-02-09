@@ -5,34 +5,57 @@ body {
   background: url('images/background.jpg') repeat;
 }
 
+h2 {
+  font-weight: normal;
+}
 /* http://colorschemedesigner.com/#3z329w0w0w0w0 */
 
 /* panel background: #ffcb73 */
 /* categ. background: #ffa100 */
 /* cat. text: #0f4da8*/
 
+.panel_container {
+/*  margin-bottom: 20px;*/
+}
+
 .panel {
-  color: 6C606B;
+  color: #333333;
   background-color: #EAE3FF;
   font-size: 1.5em;
-  height: 600px;
   line-height: 1.5em;
   padding: 10px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
 }
 
+/*.tall_panel {
+  height: 600px;
+}
+
+.mid_panel {
+  height: 400px;
+}
+
+.short_panel {
+  height: 250px;
+}
+
+.dwarf_panel {
+  height: 150px;
+}
+*/
 .category_header {
   font-family: "Palatino", Georgia, 'Times New Roman', serif;
   font-size: 1.5em;
-  font-weight: bold;
+  text-align: center;
+/*  font-weight: bold;*/
   color: white;
   background-color: #fe5877;
   padding: 10px;
   margin: 0 0 20px 0;
   -moz-border-radius: 10px;
-  -webkit-border-radius: 10px;  
+  -webkit-border-radius: 10px;
 }
 
 .panel_text {
@@ -46,12 +69,14 @@ body {
 }
 
 a {
-  color: #052f6d;
-  text-decoration: underline;
+  color: #FE5877;
+  text-decoration: none;
 }
 
 a:hover {
-  background-color: #ffa100;
+  font-size: 1.1em;
+  text-decoration: underline;
+/*  background-color: #fe5877;*/
 }
 
 a:visited {
