@@ -1,6 +1,6 @@
 body {
   font-size: 62.5%;
-  font-family: "droid-sans-1","droid-sans-2", 'Trebuchet MS', Verdana, sans-serif;
+  font-family: "Lucida Grande", Verdana, sans-serif;
   background-color: #284b7e;
   background: url('images/background.jpg') repeat;
 }
@@ -12,7 +12,8 @@ body {
 /* cat. text: #0f4da8*/
 
 .panel {
-  background-color: #ffcb73;
+  color: 6C606B;
+  background-color: #EAE3FF;
   font-size: 1.5em;
   height: 600px;
   line-height: 1.5em;
@@ -23,11 +24,11 @@ body {
 }
 
 .category_header {
-  font-family: Garamond, Georgia, 'Times New Roman', serif;
+  font-family: "Palatino", Georgia, 'Times New Roman', serif;
   font-size: 1.5em;
   font-weight: bold;
-  color: #052f6d;
-  background-color: #ffa100;
+  color: white;
+  background-color: #fe5877;
   padding: 10px;
   margin: 0 0 20px 0;
   -moz-border-radius: 10px;
