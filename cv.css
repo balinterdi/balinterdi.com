@@ -83,4 +83,34 @@ a:hover {
 a:visited {
   text-decoration: italic;
 }
-/* layout */
+
+.cw_10 {
+  font-size: 1.9em;
+}
+.cw_9 {
+  font-size: 1.7em;
+}
+.cw_8 {
+  font-size: 1.5em;
+}
+.cw_7 {
+  font-size: 1.3em;
+}
+.cw_6 {
+  font-size: 1.1em;
+}
+.cw_5 {
+  font-size: 0.9em;
+}
+.cw_4 {
+  font-size: 0.7em;
+}
+.cw_3 {
+  font-size: 0.5em;
+}
+.cw_2 {
+  font-size: 0.3em;
+}
+.cw_1 {
+  font-size: 0.1em;
+}
