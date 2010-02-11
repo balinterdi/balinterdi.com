@@ -1,0 +1,48 @@
+languages:
+  Hungarian: 10
+  English:  9
+  French: 7
+  Spanish:  8
+  Catalan: 4
+hobbies:
+  books: 10
+  economics: 6
+  hiking: 7
+  cycling: 7
+  music: 5
+prog_languages:
+  ruby: 10
+  clojure: 5
+  javascript: 6
+  python: 8
+  "shell scripting": 4
+  java: 3
+  php: 2
+frameworks:
+  "Ruby on Rails": 10
+  Sinatra: 8
+  Zope: 7
+  jQuery: 7
+  Prototype: 6
+databases:
+  mysql: 10
+  postgresql: 8
+  sqlite: 7
+  CouchDB: 4
+oss:
+  OS-X: 8
+  Debian: 7
+  Ubuntu: 7
+SCM:
+  Git: 8
+  Subversion: 7
+  CVS: 5
+os_contributions:
+  Datamapper: 8
+  Rails:  3
+  Teambox: 8
+  Integrity: 6
+  RelaxDB: 2
+  Pickler: 1
+  Webrat: 1
+  Email-spec: 1

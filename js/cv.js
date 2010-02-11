@@ -4,4 +4,7 @@ document.observe("dom:loaded", function() {
         handle: '.category_header',
     });
   })
+  $$(".text").each(function(text) {
+    text.hide();
+  })
 })
