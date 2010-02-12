@@ -124,3 +124,27 @@ a:visited {
   font-size: 0.1em;
 }
 
+/*adjustments*/
+#credo-1 {
+  top: -135px;
+}
+
+#credo-2 {
+  top: -60px;
+}
+
+#pw-blogads {
+  top: -215px;
+}
+
+#pw-logitech {
+  top: -120px;
+}
+
+#pw-hstreasury {
+  top: -215px;
+}
+
+#pw-ericsson {
+  top: -120px;
+}
