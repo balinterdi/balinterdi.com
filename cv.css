@@ -14,6 +14,13 @@ h2 {
 /* categ. background: #ffa100 */
 /* cat. text: #0f4da8*/
 
+#navigation {
+  width: 150px;
+  position: fixed;
+  left: 1060px;
+  top: 10px;
+}
+
 .panel_container {
 /*  margin-bottom: 20px;*/
 }
@@ -75,9 +82,11 @@ a {
 }
 
 a:hover {
-  font-size: 1.1em;
-  text-decoration: underline;
+/*  font-size: 1.1em;*/
+/*  text-decoration: underline;*/
 /*  background-color: #fe5877;*/
+  color: white;
+  background-color: #fe5877;
 }
 
 a:visited {
@@ -114,3 +123,4 @@ a:visited {
 .cw_1 {
   font-size: 0.1em;
 }
+
