@@ -12,9 +12,10 @@ hobbies:
   music: 5
 prog_languages:
   ruby: 10
-  clojure: 5
-  javascript: 6
-  python: 8
+  clojure: 8
+  javascript: 7
+  coffeescript: 7
+  python: 6
   "shell scripting": 4
   java: 3
   php: 2
